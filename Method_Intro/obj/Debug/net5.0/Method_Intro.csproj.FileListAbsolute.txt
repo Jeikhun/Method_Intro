@@ -1,0 +1,16 @@
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\bin\Debug\net5.0\Method_Intro.exe
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\bin\Debug\net5.0\Method_Intro.deps.json
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\bin\Debug\net5.0\Method_Intro.runtimeconfig.json
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\bin\Debug\net5.0\Method_Intro.runtimeconfig.dev.json
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\bin\Debug\net5.0\Method_Intro.dll
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\bin\Debug\net5.0\Method_Intro.pdb
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.csproj.AssemblyReference.cache
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.AssemblyInfoInputs.cache
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.AssemblyInfo.cs
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.csproj.CoreCompileInputs.cache
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.dll
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\refint\Method_Intro.dll
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.pdb
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\Method_Intro.genruntimeconfig.cache
+C:\Users\GF65\source\repos\Method_Intro\Method_Intro\obj\Debug\net5.0\ref\Method_Intro.dll
